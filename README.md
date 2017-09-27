@@ -7,7 +7,9 @@ A simple example of how to use DQN Reinforcement Learning in Unity using Keras. 
       Wall Pong: A single agent game similar to pong. Agent moves a paddle to hit a ball against a wall.
       
       Pong: A simple example of the classic two-agent Atari game.
-      https://user-images.githubusercontent.com/27893163/30900836-c127c684-a3a8-11e7-8fb9-abb30697118f.jpg
+      
+WallPong Screenshot: 
+Pong Screenshot: https://user-images.githubusercontent.com/27893163/30900836-c127c684-a3a8-11e7-8fb9-abb30697118f.jpg
 
 
 The python agent connects to the unity game via a virtual (TCP) socket. To use the examples, you will need the following installed:
