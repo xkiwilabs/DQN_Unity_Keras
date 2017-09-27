@@ -8,6 +8,8 @@ A simple example of how to use DQN Reinforcement Learning in Unity using Keras. 
       
       Pong: A simple example of the classic two-agent Atari game.
 
+![alt tag](http://url/to/wallpong_img.png) ![alt tag](http://url/to/pong_img.png)
+
 The python agent connects to the unity game via a virtual (TCP) socket. To use the examples, you will need the following installed:
 
 1.	Python 2.7 - https://www.python.org/downloads/
