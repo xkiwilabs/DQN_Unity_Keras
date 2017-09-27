@@ -3,8 +3,10 @@
 DQN with Unity and Keras
 
 A simple example of how to use DQN Reinforcement Learning in Unity using Keras. Included are (1) example Python scripts that illustrate single and two-agent DQN training and testing using Keras, and (2) a Unity package with two simple 2D unity games: 
-o	Wall Pong: A single agent game similar to pong. Agent moves a paddle to hit a ball against a wall.
-o	Pong: A simple example of the classic two-agent Atari game.
+      
+      Wall Pong: A single agent game similar to pong. Agent moves a paddle to hit a ball against a wall.
+      
+      Pong: A simple example of the classic two-agent Atari game.
 
 The python agent connects to the unity game via a virtual (TCP) socket. To use the examples, you will need the following installed:
 
