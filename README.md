@@ -36,9 +36,11 @@ Rather than using image data (as in the original DQN work), the agent is also tr
 NOTE 2: I developed the code in early 2017 and should have posted it then…but there is never enough time in the day. Have fun!
 
 For more reading on DQN see:
-•	Playing Atari with Deep Reinforcement Learning: https://arxiv.org/abs/1312.5602
-•	Human-level Control Through Deep Reinforcement Learning:http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html?foxtrotcallback=true 
-•	Multiagent cooperation and competition with deep reinforcement learning: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172395
+  1.  Playing Atari with Deep Reinforcement Learning: https://arxiv.org/abs/1312.5602
+  
+  2.  Human-level Control Through Deep Reinforcement Learning: http://www.nature.com/nature/journal/v518/n7540/abs/nature14236.html?foxtrotcallback=true 
+  
+  3.  Multiagent cooperation and competition with deep reinforcement learning: http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0172395
 
 
 
