@@ -23,10 +23,11 @@ To run the code:
 3.	Select AI type and click ‘connect’ in the game 
 4.	Watch… and watch… and watch…and eventually a successful agent (training usually takes about 1 to 2 hours for WallPong and 2 to 4 for Multiagent Pong).
 
+
 General Information:
+
 Recently, Unity released a great toolbox for DQN using Tensorflow:
-https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/?_ga=2.105619654.410151621.1506438822-872552068.1506438822 ). 
-I highly recommend you check this toolbox out. 
+https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/?_ga=2.105619654.410151621.1506438822-872552068.1506438822 ). I highly recommend you check this toolbox out. 
 
 Basically, this is much simpler version of the recently released Unity toolbox and illustrates how to do (more-or-less) the same thing using Keras. 
 
