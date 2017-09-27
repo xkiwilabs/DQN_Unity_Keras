@@ -6,6 +6,9 @@
 # Recommend using a virtual env
 #
 # By Michael Richardson (michael.j.richardson@mq.edu.au)
+#
+# Some of this code was adpated from: https://keon.io/deep-q-learning/
+#
 # June 2017
 #
 # *****************************************************************************

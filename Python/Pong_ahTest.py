@@ -161,5 +161,5 @@ while True:
 		print("Client connection closed and reply memory earsed")
 		print("Closing TCP socket...")
 		sock.close()
-		print("Training Over\n\n")
+		print("Testing Over\n\n")
 		break
