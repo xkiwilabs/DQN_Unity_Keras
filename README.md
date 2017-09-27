@@ -25,6 +25,8 @@ To run the code:
 Keon Kim has a great blog tutorial on DQN using Keras: https://keon.io/deep-q-learning/ 
 Some of the DQN code provided here was adapted from this tutorial. 
 
+Some of the Unity game code was adapted from: https://noobtuts.com/unity/2d-pong-game
+
 Recently, Unity released a great toolbox for DQN using Tensorflow:
 https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/?_ga=2.105619654.410151621.1506438822-872552068.1506438822 ). 
 I highly recommend you check this toolbox out. 
