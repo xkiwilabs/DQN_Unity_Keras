@@ -33,7 +33,7 @@ Basically, this is much simpler version of the recently released Unity toolbox a
 
 Why Keras? Well, Keras offers a front end to Tensorflow and is much simpler to use if you are new to neural-networks and deep-learning. If you are interested in learning more about Keras and want a practical guide to how to use it for deep learning more generally, I recommend the deep-learning in python using keras series by Dr. Jason Brownlee at Machine Mastery:  https://machinelearningmastery.com/deep-learning-with-python/
 
-NOTE 2: Rather than using image data (as in the original DQN work), the current DQN agent(s) are receive position and velocity data from the game, which for most Unity and VR applications is preferable to image data, due to the computational cost of deep convolutional network architectures (i.e., no GPU required for these examples).
+NOTE 2: Rather than using image data (as in the original DQN work), the current DQN agent(s) receive position and velocity data from the game, which for most Unity and VR applications is preferable to image data, due to the computational cost of deep convolutional network architectures (i.e., no GPU required for these examples).
 
 Keon Kim also has a great blog tutorial on DQN using Keras: https://keon.io/deep-q-learning/. Some of the DQN code provided here was adapted from Keon’s tutorial, as well as various other educational/tutorial resources. 
 
