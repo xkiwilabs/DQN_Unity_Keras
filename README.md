@@ -19,11 +19,11 @@ NOTE 1: the python code has only been tested using Python 2.7, on a Mac-Book Pro
 To run the code:
 1.	Run a python training or testing script in terminal 
 2.	Launch the corresponding game (either in the Unity editor or as a standalone)
-3.	Select AI and Click ‘connect’ in the game 
+3.	Select AI and click ‘Connect’ in the game 
 4.	Watch… and watch… and watch…and eventually a successful agent (training usually takes about 1 to 2 hours).
 
 Keon Kim has a great blog tutorial on DQN using Keras: https://keon.io/deep-q-learning/ 
-Some of the DQN code provided here was adapted from this tutorial: 
+Some of the DQN code provided here was adapted from this tutorial. 
 
 Recently, Unity released a great toolbox for DQN using Tensorflow:
 https://blogs.unity3d.com/2017/09/19/introducing-unity-machine-learning-agents/?_ga=2.105619654.410151621.1506438822-872552068.1506438822 ). 
